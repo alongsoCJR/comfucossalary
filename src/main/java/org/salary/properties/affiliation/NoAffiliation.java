@@ -13,4 +13,6 @@ public class NoAffiliation implements Affiliation {
     public double calculateDeductions(PayCheck pc) {
         return 0;
     }
+
+
 }
