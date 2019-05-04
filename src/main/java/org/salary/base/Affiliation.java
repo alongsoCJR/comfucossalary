@@ -9,6 +9,6 @@ import org.salary.po.PayCheck;
  */
 public interface Affiliation {
 
-    //计算扣除的费用（-）
+    //计算扣除的费用（-branch的测试）
     double calculateDeductions(PayCheck pc);
 }
