@@ -2,7 +2,7 @@ package org.salary.base;
 
 /**
  * @author chenjianrong-lhq 2019年04月05日 09:46:23
- * @Description:
+ * @Description:做个提交分支的测试
  * @ClassName: Transaction
  */
 public interface Transaction {
